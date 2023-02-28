@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575448860385",
+    "project_id": "musicplayer-36e24",
+    "storage_bucket": "musicplayer-36e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575448860385:android:22fc0ef8576d140fb519a0",
+        "android_client_info": {
+          "package_name": "com.example.solo_flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575448860385-5f8hqtf6jm647b2ubje71etfqckobdec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQk1RIw91FpJizujvATp4ltsW_WiKd8RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575448860385-5f8hqtf6jm647b2ubje71etfqckobdec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
